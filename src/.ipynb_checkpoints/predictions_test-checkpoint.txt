@@ -1,0 +1,1098 @@
+Y 2094 Quốc lộ 1A, phường Tân Chánh Hiệp, Quận 12, TP Hồ Chí Minh
+P 2096 Quốc lộ 1A, Phường Tân Chánh 
+Y Thôn Cầu Trong, Xã Mỹ Thái, Huyện Lạng Giang, Bắc Giang
+P Thôn Cầu Trung, Xã Mỹ Thái,
+Y Lô D4 Khu Công nghiệp Trà Đa, Xã Trà Đa, Thành Phố Pleiku, Gia Lai
+P Lô A4 Khu Công nghệp Trà Aa, Xã Tà ạa
+Y Thôn Đông Hải, Huyện Phú Quý, Bình Thuận
+P Thôn Đồng Hi, Huyện Phú Qu
+Y F2/25A10 ấp 6B, Xã Vĩnh Lộc A, Huyện Bình Chánh, TP Hồ Chí Minh
+P T2/2719 ấp 6D, Xã Vĩnh Lộc 1
+Y Xóm Giữa, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội
+P Xóm Guề, Xã Thanh Liệch, Hu
+Y 37/11/24 đường Phú Định, Phường 16, Quận 8, TP Hồ Chí Minh
+P 37/1/24 Đường Phú Địh, Phường 15
+Y 298 Trường Sa, Phường 02, Quận Phú Nhuận, TP Hồ Chí Minh
+P 18 Trường Xơ, Phường 1
+Y 14 Thanh Tịnh, Phường Vỹ Dạ, Thành Phố Huế, Thừa Thiên - Huế
+P 14 Thanh Tịh, Phường Kỳ Dạ, T
+Y Số 283 Đường 30/4, Phường 3, Thành phố Sóc Trăng, Sóc Trăng
+P Số 253 Đường 320/4, Phường 3
+Y lầu 3, Số 44 Nguyễn Huệ, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh
+P Cầu 3, số 4 Nguyễn Hiệ, Phường Bến 
+Y 14/2 Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, TP Hồ Chí Minh
+P 412 Nguyễn Băn Biều, Qường Đao, Quận 1
+Y Trang Liệt, Phường Trang Hạ, Thị Xã Từ Sơn, Bắc Ninh
+P Tang Lệt, phường Trong Hạ, Thị xã 
+Y 207/16/7a Nam Cao P.Tân Phú, Phường Tân Phú, Quận 9, TP Hồ Chí Minh
+P 207/6/7 Nam Ca B.Tâên Phú, Phường Tân
+Y Số 5 dãy 2, tập thể xa la trại, Phường Phúc La, Quận Hà Đông, Hà Nội
+P Số 5 đưng 2, Hôp Hhà a Ba Đại, Phường 
+Y Số 220B/2 khu phố 1B, Phường An Phú, Tx Thuận An, Bình Dương
+P Số 21D/2 Khu phố 1A, Phường An Phú
+Y 100 Phạm Văn Đồng, Phường Vỹ Dạ, Thành phố Huế, Thừa Thiên - Huế
+P 10 Phạm Văn Đồng, Phường Vỹ Dạ
+Y 419 Nguyễn Huệ - TP Tuy Hoà - Phú Yên, TP Tuy Hoà, Phú Yên
+P 49 Nguyễn Huện Thong, troà Phú Yâên
+Y 62B Trần Bình Trọng, Phường 5, Quận Bình Thạnh, TP Hồ Chí Minh
+P 628 Trần Bình Trọng, Phường 5
+Y Số 7D, ngách 378/39 Thụy Khuê, Phường Bưởi, Quận Tây Hồ, Hà Nội
+P 70, ngách 379/9 Thuy Khai, Phường Quiếu
+Y Cẩm Thạch, Huyện Cẩm Thuỷ, Thanh Hoá
+P Cẩm Thạch, Huyện Ciên T
+Y Thôn Lưu Thượng1-xã Hiệp An, Huyện Kinh Môn, Hải Dương
+P Thôn Lm Thuận, Xã xã Hiệng An
+Y Thôn Thuận Phước, Xã Thuận Đức, Thành Phố Đồng Hới, Quảng Bình
+P Thôn Thuệi Pước, Xã Thun Đức
+Y 21 Cộng Hòa, Phường 4, Quận Tân Bình, TP Hồ Chí Minh
+P 21 Cạng Hòa, Phường 4
+Y 205 Lê Lợi, Thành Phố Phan Thiết, Bình Thuận
+P 20/5 Lê Lái, Thành phố 
+Y 88A Kha Vạn Cân, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP Hồ Chí Minh
+P 20 Ha Vạm Cân, Phường Hệp Bình Chán
+Y 61/2/3 Nguyễn Sơn, Phường Phú Thạnh, Quận Tân phú, TP Hồ Chí Minh
+P 8/2/3 Nhước Sơn, Phường Phú Thạn
+Y Xóm Đình, thôn Tự Khoát, Xã Ngũ Hiệp, Huyện Thanh Trì, Hà Nội
+P Xóm Đình, thôn Tự Khái, Xã Ngã 
+Y Khu phố 3, Thị Trấn Châu Thành, Huyện Châu Thành, Tây Ninh
+P Khu phố 3, Thị Trấn Chá Thành
+Y Số 14 Dãy B3 Khu tập thể sân bay, Xã Phú Minh, Huyện Sóc Sơn, Hà Nội
+P Số 141 ấp 83 Khu tp thã Sân Long, Xã Phúi 
+Y Số 262/16 Nguyễn Tiểu La, Phường 08, Quận 10, TP Hồ Chí Minh
+P Số 262/16 Nguyễn Thái Lo, phường
+Y Số 184, tổ 8, Phường Minh Khai, Thành phố Phủ Lý, Hà Nam
+P Số 104 Lổ 8, Phường Minh Khi, T
+Y 78/1 Đường TA21, phường Thới An, Quận 12, TP Hồ Chí Minh
+P 78/1 Đường T21, Phường Thới An
+Y 15A Sông Đà, Phường 2, Quận Tân Bình, TP Hồ Chí Minh
+P 15A Đông Đà, Phường 2
+Y 68 Phạm Viết Chánh, Phường 19, Quận Bình Thạnh, TP Hồ Chí Minh
+P 1Pham Vĩt Chánh, Phường 1
+Y Đội 18, Xã Thanh Nưa, Huyện Điện Biên, Điện Biên
+P Điội 10, xã Thanh Ma, Hu
+Y 119 Mai Hắc Đế, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội
+P 19 Na Hăn Điế, hường Bàn Thị Xuân
+Y 127/8F2/10G, Mậu Thân, Phường An Hòa, Quận Ninh Kiều, Cần Thơ
+P 165/80/1065, Nạu Thôn, Phường An
+Y Khu liên cơ quan, Phường Ngô Quyền, Thành phố Bắc Giang, Bắc Giang
+P Khu dân Cô Guam, Phường Ngô Quyền
+Y Nhà số 06, tổ 26, Phường Thượng Thanh, Quận Long Biên, Hà Nội
+P Nhà số 06, tổ 26, Phường Thượng 
+Y Thôn Xuân Canh, Xã Xuân Canh, Huyện Đông Anh, Hà Nội
+P Thôn Xuám Canh, Xã Xuân Canh
+Y 120B Mậu Thân nối dài, Phường An Hòa, Quận Ninh Kiều, Cần Thơ
+P 10B Nhà Thàn á Xơn, Phường ANhân
+Y Khu công nghiệp NOMURRA, Huyện An Dương, Hải Phòng
+P Khu đông nghệp Ma MNKhơ4
+Y 5/5 Đường 4, Khu phố 4, Phường Tam Phú, Quận Thủ Đức, TP Hồ Chí Minh
+P 5/5 Đường 4, Khu phố 4, Phường Tam H
+Y ấp Thanh Hiệp, xã Thanh Phú, Huyện Bến Lức, Long An
+P ấp Thanh Hiệp, xã Thanh Phú,
+Y 81 Mai Thị Lựu, Phường Đa Kao, Quận 1, TP Hồ Chí Minh
+P 6 Ma Thị Lon, Phường ĐAn Kao, 
+Y Thôn Định Bình, Thị trấn Vĩnh Thạnh, Huyện Vĩnh Thạnh, Bình Định
+P Thôn 8 Định Bình, Thị trấn Vĩnh Thạnh
+Y 353 Hoàng Hữu Nam, Phường Tân Phú, Quận 9, TP Hồ Chí Minh
+P 353 Hoàng Hữ Nam, phường Tân Phú
+Y Xã Nghĩa Sơn, Xã Nghĩa Sơn, Huyện Nghĩa Hưng, Nam Định
+P xã Nghĩa Sơ, Xã Nghĩa Sơn
+Y Số 21 Lê Thánh Tông, Phường Máy Chai, Quận Ngô Quyền, Hải Phòng
+P Số 24 Lê Thánh Tồng, Phường Máy 
+Y Đường Cao Thắng, Thôn 11, Xã Lộc Ninh, Thành phố Đồng Hới, Quảng Bình
+P Đường Ca Thắng, Thôn 1, Xã Lội Minh
+Y Thôn 4, Đông Trai, Xã Diễn Kỷ, Huyện Diễn Châu, Nghệ An
+P Thôn 4, Đôny Tân, Xã Diếu Lý, Huyện
+Y Tân Thiềng, Xã Tân An Hội, Huyện Mang Thít, Vĩnh Long
+P Tânm Thắng, Xã Tân An Hộệ
+Y Số 20, khu tập thể Thuỷ Sản, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội
+P Số 20, hu ấp Hhố Tháy Sơn, Phường N
+Y Số 67/31H đường Phó Cơ Điều, Phường 3, Thành phố Vĩnh Long, Vĩnh Long
+P Số 4/4 đường phố L2 Điều, Phường 2
+Y 1-5 Lê Duẩn, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh
+P 125 Lê Duến, Phường Bến Nghé
+Y Km số 3, đường phan trọng tuệ, Xã Tam Hiệp, Huyện Thanh Trì, Hà Nội
+P K4 số 3, đường Phướn Trọng Tại, Xã Tam
+Y 235/22 Đường Trục, Phường 13, Quận Bình Thạnh, TP Hồ Chí Minh
+P 952 Đường Trạu, Phường 10
+Y Số 94 Trần Hưng Đạo, Phường Hải Cảng, Thành Phố Quy Nhơn, Bình Định
+P Số 94 Trần Hưng Đạo, Phường Hải C
+Y Số 36, ngõ 14, tổ 11, Phường La Khê, Quận Hà Đông, Hà Nội
+P Số 36, ngõ 14, tổ 1, Phường Ca Khê
+Y 99E Cộng Hòa, Phường 4, Quận Tân Bình, TP Hồ Chí Minh
+P 9 Lê CGing Lộ, Phường 4
+Y Lô A2-10 đường Võ Chí Công, Phường Hoà Xuân, Quận Cẩm Lệ, Đà Nẵng
+P Lô 12-10 đường Võ Chữ Ciôn, Phường 
+Y Số 8/96 Hai Bà Trưng, Phường An Biên, Quận Lê Chân, Hải Phòng
+P Số 8/5 Hải Bà Trưng, Phường An
+Y Xóm Trung Tâm, Xã Mường Lống, Huyện Kỳ Sơn, Nghệ An
+P Xóm Trung Tân, Xã Hương Láng,
+Y D654, tổ 14, KP4, Phường Long Bình, Thành phố Biên Hoà, Đồng Nai
+P 105/1, Tổ 1, K21, Phường Long Bình
+Y Nhà số 69 ngõ 10 Mạc Thái Tổ, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội
+P Nhà số 6ô ngõ 10 Hạc Thái Tổ, Phường 
+Y Đường Ngô Quyền, Phường Quang Trung, Thành phố Phủ Lý, Hà Nam
+P Đường Ngô Quyền, Phường Quang T
+Y Tổ 9, ấp Trà Hiệp, Xã Trà Vong, Huyện Tân Biên, Tây Ninh
+P Tổ4, ấp Tà Hập, Xã Tà Lưung, Huyện T
+Y 47A Lê Liễu, Phường Tân Quý, Quận Tân phú, TP Hồ Chí Minh
+P 1/1 Lê Vănh, Phường Vn Huy
+Y Khối 8, Phường Tân An, TP.Buôn Ma Thuột, Đắc Lắc
+P Khố 6, phường Trần Aan
+Y Số 443/A, ấp Mỹ Thị B, Xã Mỹ An, Huyện Tháp Mười, Đồng Tháp
+P Số 49/4, ấp Mỹ Thị B, trấn Hng An
+Y Thôn 5, Xã Hạ Bằng, Huyện Thạch Thất, Hà Nội
+P Thôn 5, Xã Ha Bing
+Y Xóm Sơn Phú, Xã Cao Sơn, Huyện Đà Bắc, Hòa Bình
+P T Nam Sên Phú, Xã Cao Sơn,
+Y Xã Bồi Sơn, Huyện Đô Lương, Nghệ An
+P Xã Thà Sơn, Huyện Đô ộ
+Y Số 282 Tây Sơn, Phường Trung Liệt, Quận Đống đa, Hà Nội
+P Số 120 Tân Sơn, phường Trung Lit
+Y Số 102, đường Thái Thịnh, Phường Trung Liệt, Quận Đống đa, Hà Nội
+P Số 106, đường Thá Thận, Phư
+Y 25 ngách 23, ngõ Thịnh Hào 2, Phường Hàng Bột, Quận Đống đa, Hà Nội
+P 25 ngách 23, Ngõ Thạnh Hòa 2, Phườ
+Y Tổ 12, khối 3, Thị trấn Diễn Châu, Huyện Diễn Châu, Nghệ An
+P Tổ 12, Khói 3, Thị trấn Đần Châu
+Y Số 681, Tổ 23, ấp Mỹ Hòa, Xã Nhơn Mỹ, Huyện Chợ Mới, An Giang
+P Số 691, Tổ 23, ấp Hỹ Hòa, Xã Minh 
+Y 465 Nguyễn Oanh, Phường 17, Quận Gò Vấp, TP Hồ Chí Minh
+P 265 Nguyễn Kinh, phường 14
+Y Thôn Tử Dương, Xã Lý Thường Kiệt, Huyện Yên Mỹ, Hưng Yên
+P Thôn Trí Dương, Xã Lý Thường Liệt
+Y Số 152, Tổ 1, ấp 1, Xã Mỹ Hiệp, Huyện Cao Lãnh, Đồng Tháp
+P Số 152, Tổ 1, ấp, Xã Mỹ Hiệp, 
+Y ấp Tân Lợi, Xã Tân Phú Trung, Huyện Châu Thành, Đồng Tháp
+P ấp Tân Lợi, Xã Tân Phú Trung
+Y 324 Trần Hưng Đạo, Phường Bà Triệu, Thành Phố Nam Định, Nam Định
+P 324 Trần Hưng Đạo, Phường Bà Triu
+Y Số 05 Mẹ Hiền, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng
+P Số 9 Hạ thền1, Phường Thanh Khê
+Y 628A Nguyễn Duy, Phường 12, Quận 8, TP Hồ Chí Minh
+P 628A Nguyễn Duy, Phường 12
+Y Thôn Sín Chải, Xã Tả Giàng Phình, Huyện Sa Pa, Lào Cai
+P Thôn Sán Chái, Xã Tá C Tông hà
+Y ấp 6, Huyện Cai Lậy, Tiền Giang
+P ấp 6, Huyện Ci L
+Y 75/1 Cây Keo, Phường Tam Phú, Quận Thủ Đức, TP Hồ Chí Minh
+P 7/1 Cùng Kao, Phường Tâmn Phú
+Y 221/8 Hà Tôn Quyền, Phường 6, Quận 11, TP Hồ Chí Minh
+P 20/3 Vàn Trôn Quyền, phường 6, Q
+Y 207/64 Phạm Văn Hai, Phường 5, Quận Tân Bình, TP Hồ Chí Minh
+P 27/L34 Phạm Văn Han, phường 5
+Y 114/9 Vườn Lài, phường An Phú Đông, Quận 12, TP Hồ Chí Minh
+P 14/9 Hàn Lãà, phường An Phúc Đông
+Y Số 49, ngõ 93, phố 8/3, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội
+P Số 3 T7, ng 5 3/3, Phố 9/3 P
+Y Xóm Thanh Bình, Xã Tân Thịnh, Huyện Lạng Giang, Bắc Giang
+P Xóm Thanh Bình, Xã Tân Thịnh
+Y Số 186 Phú Định, Phường 16, Quận 8, TP Hồ Chí Minh
+P Số 106 Phú Định, Phường 16,
+Y 620 Trần Cao Vân, Quận Thanh Khê, Đà Nẵng
+P 50 Trần Cao Văn, Quận 
+Y 271 Huỳnh Ngọc Huệ, Phường Hoà Khê, Quận Thanh Khê, Đà Nẵng
+P 271 Huỳnh Ngọc Hi, Phường Hoà K
+Y Số 61/380 Tô Hiệu, Phường Hồ Nam, Quận Lê Chân, Hải Phòng
+P Số 61/La Tô Hậu, Phờng Hà Nam, Qu
+Y Cụm 5, Thị trấn A Lưới, Huyện A Lưới, Thừa Thiên - Huế
+P Kụm 5, Thị trấn Aa Kuớt
+Y 485 Tô Hiến Thành P.14, Phường 14, Quận 10, TP Hồ Chí Minh
+P 15 Tô Hiến Thành P.14, Phường 14
+Y R 403 tầng 4, V-Tower Số 649 Kim mã, Quận Ba Đình, Hà Nội
+P K 463 đường 3, 1 Tram Số Cư9 Kam 
+Y Thôn Cập Nhất, Xã Tiền Tiến, Huyện Thanh Hà, Hải Dương
+P Thôn Cập Nhớc, Xã Tiến Tiền
+Y 399 Nguyễn Văn Cừ, Phường Hoà Hiệp Bắc, Quận Liên Chiểu, Đà Nẵng
+P 39 Nguyễn Văn Cà, Phường Hoà Hập Bắc
+Y 13/5A Nguyễn Văn Quá, phường Đông Hưng Thuận, Quận 12, TP Hồ Chí Minh
+P 15/5 An Ngu3, 5A 1 Lạn Xuã, Phườ
+Y 334/25 Lê Quang Định, Phường 11, Quận Bình Thạnh, TP Hồ Chí Minh
+P 36/25 Lê Quang Định, Phường 1
+Y 31/15/14 Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh
+P 3/15/14 Lun Lan Khám, Phường 25
+Y Đội 1, thôn Sáp Mai, Xã Võng La, Huyện Đông Anh, TP Hà Nội
+P Đội 1, thôn Sốp Ma, Xã Văng La
+Y Quốc lộ 30, ấp Bình Hòa, Xã Bình Thạnh, Thị Xã Hồng Ngự, Đồng Tháp
+P Quốc lộ 35, ấp Bình Hòn, Xã Bình
+Y Tổ 2, khu 1, Phường Vân Phú, Thành Phố Việt Trì, Phú Thọ
+P Tổi 2, khu 8, Phường ân Phú
+Y 20A Lê Văn Hưu, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh
+P 20A Lê Văn Hu, Phường Bến Nghé
+Y UBND xã Hợp Thành, Huyện Yên Thành, Nghệ An
+P 10/D ấối Hệp Thành, Huyện 
+Y Xóm Đông, thôn Khê Ngoại, Xã Văn Khê, Huyện Mê Linh, Hà Nội
+P Xóm Đông, thôn Nhà Ngaên, Xã 
+Y Thôn AGrồng - Xã ATiêng, Xã A Tiêng, Huyện Tây Giang, Quảng Nam
+P Thôn A Ngoàng, Xã 1 Thân, Xã Niân
+Y 41 #6 Nguyễn Thị Minh Khai, Quận 1, TP Hồ Chí Minh
+P 4/46 Nguyễn Thị Linh Khai,
+Y Thôn 4, Xã Hạnh Phúc, Huyện Thọ Xuân, Thanh Hoá
+P Thôn 4, Xã Hạnh Phước, Hu
+Y Xã Tân Công Sính,, Huyện Tam Nông, Đồng Tháp
+P ã Ta Cây Sơnh, Huyện Thàng Hư
+Y Tổ Luộc 1, Thị Trấn Vĩnh Lộc, Huyện Chiêm Hoá, Tuyên Quang
+P Ti uộc 1 Thị Tiân, Huy
+Y Số 5, phố Đức Giang, Phường Đức Giang, Quận Long Biên, Hà Nội
+P Số 5, phố Địh Gang, Phường Định Giang
+Y Số 8 hẻm 58/23/4 Trần Bình, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội
+P S hà 372/14 Trần Hinh, Phường Ma Dịnh
+Y Thôn An Lão Xuôi, Xã Vĩnh Thịnh, Huyện Vĩnh Tường, Vĩnh Phúc
+P Thôn An Loà Xuái, Xã Vĩnh Thịnh
+Y Km 2, Thôn Kon Rờ Bàng, Xã Vinh Quang, Thành phố Kon Tum, Kon Tum
+P Ku 2, thôn La Lê Lông, Xã Vinh Qua
+Y Tổ 4, Thị trấn Kon Dơng, Huyện Mang Yang, Gia Lai
+P Tổ 4, Thị trấn Kam Cing
+Y Phố Bình Minh, Huyện Lục Nam, Bắc Giang
+P Phố Bình Minh, Huyện Lạ M
+Y Số 9 lô 5/6A Bạch Đằng, Phường Hạ Lý, Quận Hồng Bàng, Hải Phòng
+P Số 9, tô 5/16A Bạch Đồng, Phường Hạ
+Y Số 8 Pháo Đài Láng, Quận Đống đa, Hà Nội
+P Số 8 Phớc Đi Lưng, Q
+Y Thôn Lương Tràng, Xã Liêm Tiết, Thành phố Phủ Lý, Hà Nam
+P Thôn Long Tràng, Xã Liâm Tiế, T
+Y Thôn Phú An, Đại Thắng, Huyện Đại Lộc, Quảng Nam
+P Thôn Đù Aan, Pho Thưềng, Huyện Đhi 
+Y Tổ dân phố 5 Tân Sơn, Thành phố Sông Công, Thái Nguyên
+P Tổ dân phố 5, Tây Sơn
+Y 7 Lô D Lạc Long Quân, Phường 2, Thành Phố Vũng Tàu, Bà Rịa - Vũng Tàu
+P 7 62 ạc Lang Quân, Phường 2
+Y ấp Mới 2, xã Mỹ Hạnh Nam, Huyện Đức Hoà, Long An
+P Bp NMhúi , Mỹ Hhành Tham
+Y Thôn 2, xã Đức Lân, Huyện Mộ Đức, Quảng Ngãi
+P Thônh, xã Đức Lâu, Huyện Mỹ H
+Y Số 187, tổ 8, ấp Tân Hòa, Xã Tân Tiến, Huyện Bù Đốp, Bình Phước
+P Số 17, tõ 6, ấp Tin Hoà, Xã Tân
+Y ấp Vĩnh Yên, Xã Long Đức, Thành phố Trà Vinh, Trà Vinh
+P ấp Vinh Sên, Xã Long Đức
+Y Khu phố Phú Thứ, Thị Trấn Phú Thứ, Huyện Tây Hoà, Phú Yên
+P Khu phố Phú Thái, Thị Trấn Phú Thú
+Y 41/3 Trường Chinh, Phường 11, Quận Tân Bình, TP Hồ Chí Minh
+P 41/7 Trường Chinh, Phường 1
+Y 38 Tiểu La, Phường Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng
+P 3 Tầu La, Phường Hoà Công Bắc
+Y Thôn Vĩnh Hưng, Xã Vĩnh Tân, Huyện Tuy Phong, Bình Thuận
+P Thôn Vĩnh Hưng, Xã Vĩnh Tân
+Y 94 Nguyễn Cửu Đàm, Phường Tân Sơn Nhì, Quận Tân phú, TP Hồ Chí Minh
+P 74 Nguyễn Chu Đim, Phường Tân Sn Kh
+Y 47 Trần Phước Thành, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng
+P 47 Trần Phưc Thành, Phường Kha 
+Y BN4-LK4, KP 7, Phường Thống Nhất, Thành phố Biên Hoà, Đồng Nai
+P 4N-26, K7, Phường Trường Nhấth
+Y 78 Trương Văn Bang, Phường 7, Thành Phố Vũng Tàu, Bà Rịa - Vũng Tàu
+P 78 Trường Xuán Bang, Phường 7
+Y Số 33 đường Vũ Quang, Phường Trần Phú, Thành phố Hà Tĩnh, Hà Tĩnh
+P Số 35 đường Vă Quang, Phường T
+Y 128 Đoàn Phú Tứ, Phường Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng
+P 124 Đrần hú Trủ, Phường Hoà Khánh Bắ
+Y Ngã tư chùa Vít, Xã Cẩm Phúc, Huyện Cẩm Giàng, Hải Dương
+P Ngõ 6 thôn V6, Xã Cẩm Phú
+Y Số 354 Đường Tô hiệu, Quận Lê Chân, Hải Phòng
+P Số 357 Đường Tô Hiệu, Quận 
+Y Tân Đức, Xã Vạn Lương, Huyện Vạn Ninh, Khánh Hòa
+P Tôn Đức, Xã Vạm Lương, 
+Y ấp 4, thị trấn An Thới, Huyện Phú Quốc, Kiên Giang
+P Số 4 tị trấn An Thới, Huyện Phú
+Y Thôn Xuân Sơn, Xã Trung Giã, Huyện Sóc Sơn, Hà Nội
+P Thôn tân Sơn, Xã Trung Tru, Huyện Gó 
+Y Thôn 4, Xã Châu Quế Thượng, Huyện Văn Yên, Yên Bái
+P Thôn 4, xã Châu Bức Thượng
+Y 76/18 Lê Trọng Tấn, Phường Tây Thạnh, Quận Tân phú, TP Hồ Chí Minh
+P XHang, uyniảni
+Y Số 9, đường Phạm Văn Ký, Phường 2, Thành phố Cà Mau, Cà Mau
+P S 9 đường Hhạn Khău Kỹ, Phường 2
+Y Số 37 Trần Cao Vân, P Ngọc Trạo, Thành phố Thanh Hoá, Thanh Hoá
+P Số 37 Trần Cao Vân, P.Ngọc Trạo
+Y xã quảng thành, Xã Quảng Thành, Huyện Hải Hà, Quảng Ninh
+P Xã Mrưáng Thành, Xã Quán Thành
+Y 65/6Y ấp Mỹ Hòa 3, Xã Tân Xuân, Huyện Hóc Môn, TP Hồ Chí Minh
+P 6167 Đạ Hhỹ Hòa 3, Xã Tân Xuân
+Y 965/14 Quang Trung, Phường 14, Quận Gò Vấp, TP Hồ Chí Minh
+P 35/1 Quang Trung Qhưng 1, Quận Gò V
+Y Xã Lang Quán,, Huyện Yên Sơn, Tuyên Quang
+P Xã Long Quối, Huyện Yên S
+Y 48B/2, KP 5, Phường Tân Hòa, Thành phố Biên Hoà, Đồng Nai
+P 48/2, Kh5, Phường Tân Hòà
+Y Thôn La Mai, Xã Ninh Giang, Huyện Hoa Lư, Ninh Bình
+P Thôn La Mai, Xã Ninh Giang, 
+Y Điền Lương - Hợp Hòa, Thị trấn Hợp Hòa, Huyện Tam Dương, Vĩnh Phúc
+P Tân Lưàng Hiệp Hòa, Thị trấn Hỹp 
+Y 426, Đường Tô Ngọc Vân, phường Thạnh Xuân, Quận 12, TP Hồ Chí Minh
+P 426, Đường Tô Ngọc Hân, phường Thạnh
+Y Thôn Ninh Hải, Xã Minh Châu, Huyện Vân Đồn, Quảng Ninh
+P Thôn Minh Hế, Xã Ninh Châu, Huyệ
+Y Số 27, tổ 1, khu 1, ấp 2, Xã An Hoà, Thành Phố Biên Hoà, Đồng Nai
+P Số 28 tổ 1, Khu 1, ấp 2, Xã Nhâa
+Y Số 324/57 Hoàng Văn Thụ, Phường 4, Quận Tân Bình, TP Hồ Chí Minh
+P Số 324/5 Hùng Văà Thọ, Phường 4
+Y đường Lê Văn Lương, phường Nhân Chính, Quận Thanh Xuân, Hà Nội
+P Đường Lê Văn Lương, Phường Nhướ C
+Y Đồng Sau - xã Đồng Sơn, Xã Đồng Sơn, Thành phố Bắc Giang, Bắc Giang
+P Đông Sam - xã Đồng Sơn, Xã Đồng Sơn
+Y Quốc lộ 23B, Xã Mê Linh, Huyện Mê Linh, Hà Nội
+P Qu cố lộ 258B, Xã H Linh
+Y KCN Biên Hòa 1, Thành Phố Biên Hoà, Đồng Nai
+P 101 Điền Hòà 1, Thành Phố B
+Y 169F Bàu Cát 1, Phường 12, Quận Tân Bình, TP Hồ Chí Minh
+P 1659B Buề Các1, Phường 13
+Y 18 Trịnh Hoài Đức, Phường 13, Quận 5, TP Hồ Chí Minh
+P 18 Binh Chiai hái, Phường 13, 
+Y Phố Chu Văn An, Thành phố Lào Cai, Lào Cai
+P Phố Chu Văn An
+Y Khối 6A, Thị trấn Anh Sơn, Huyện Anh Sơn, Nghệ An
+P Khối 6, Thị trấn Anh Sơn
+Y Khu CN Bá Thiện, Xã Bá Hiến, Huyện Bình Xuyên, Vĩnh Phúc
+P Khu B CBi Thiện, Xã Bắi Hến
+Y 6/2 Lầu Tân Khai, Phường 4, Quận 11, TP Hồ Chí Minh
+P 6/2 Lầu Tân Khêi, Phường 4,
+Y Khối 1, Phường Thu Thuỷ, Thị Xã Cửa Lò, Nghệ An
+P Khối 1, Phường Th Thuy, Thị 
+Y 29 Lam Sơn, Phường 2, Quận Tân Bình, TP Hồ Chí Minh
+P 28 Lam Sa, Phường 2, Qu
+Y 47 Hàng Bồ, Phường Hàng Bồ, Quận Hoàn Kiếm, Hà Nội
+P 17 Hoàng Bà, Phường Hàng Bà
+Y Thôn Cộng Hòa 2, Xã Tịnh ấn Tây, Thành phố Quảng Ngãi, Quảng Ngãi
+P Thôn Công Hòa 2, Xã Tịnh Sấn Tây
+Y Thôn Hữu Cước, Xã Liên Hồng, Huyện Đan Phượng, Hà Nội
+P Thôn Hòà Bắc, Xã Liên Hồng
+Y Xóm Cun, Xã Thu Phong, Huyện Cao Phong, Hòa Bình
+P Xóm Ca, Xã Tha Phong,
+Y ấp Cái Dầy, Thị trấn Châu Hưng, Huyện Vĩnh Lợi, Bạc Liêu
+P ấp Cái Dây, Thị trấn Chửai Hưng
+Y Số 549/2, tổ 11, KP 4, Phường Trảng Dài, Thành phố Biên Hoà, Đồng Nai
+P Số 39/2, tổ 1, KP 4, Phường Trưng Dà
+Y Thôn Vân La, Xã Hồng Vân, Huyện Thường Tín, Hà Nội
+P Thôn Vâm La, Xã Hồng Tân
+Y Thị trấn Tiên Kỳ, Huyện Tiên Phước, Quảng Nam
+P Thị trấn Tân Kỳ, Huyệ
+Y Thôn La Bông, Xã Hoà Tiến, Huyện Hoà Vang, Đà Nẵng
+P Thôn La Bằng, Xã Hòa Tiến
+Y Dỹ Tiến, Xã Thành An, Huyện Thạch Thành, Thanh Hoá
+P 8 Trến, Xã Thành An, 
+Y Thôn Thanh Lũng, Xã Tiên Phong, Huyện Ba Vì, Hà Nội
+P Thôn Thanh Lơng, Xã Tân Phong
+Y Tầng 4, số 5A Võ Thị Sáu, Phường Máy Tơ, Quận Ngô Quyền, Hải Phòng
+P Hầng 4, số 34 Võ Thị Sáu, Phường
+Y B12/8N/10C ấp 2, Xã Vĩnh Lộc B, Huyện Bình Chánh, TP Hồ Chí Minh
+P 8/2/9A0/10B, ấp 2, Xã Vĩnh Lộc B
+Y 239A Hoàng Văn Thụ, Phường 08, Quận Phú Nhuận, TP Hồ Chí Minh
+P 239A Hùng Văn Thọ, phường 08
+Y Khu 113, Thị trấn Như Quỳnh, Huyện Văn Lâm, Hưng Yên
+P Khu 15, Thị trấn Nhn Quỳnh
+Y 4/48B Khu Phố Đông Chiêu, TX Dĩ An, Bình Dương
+P 4/4DB Khu phố Đông Chiên, T
+Y Thôn Tiến Vũ 8, Xã An Tường, Thành Phố Tuyên Quang, Tuyên Quang
+P Tần Tâế lố 8, Xã Ha Trềng, 
+Y Thôn Đông Hồng, Xã Quỳnh Bảo, Huyện Quỳnh Phụ, Thái Bình
+P Thôn Đông Hồng, Xã Quỳnh Bắc
+Y Số 166C, phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội
+P Số 12, phố Đấn Cến Phàng Độ Cến, 
+Y Số 99, phố Tân Phong, Phường Thụy Phương, Quận Bắc Từ Liêm, Hà Nội
+P Số 9, phố Tân Phong, Phường Thụ
+Y Tư Giang, Tân Dân, Thị Xã Chí Linh, Hải Dương
+P T Cing, Tân Dâ, Thị Xã hi
+Y 235-237-239-241 Cộng Hòa, Phường 13, Quận Tân Bình, TP Hồ Chí Minh
+P 235-27-27-241 Cn Hòu, Pường
+Y Tổ 20, Thị Trấn Đông Anh, Thị trấn Đông Anh, Huyện Đông Anh, Hà Nội
+P Tổ 20, Thị Trấn Đông Ainh, Thị 
+Y Số 11B Ngô Văn Sở, Phường Ngọc Trạo, Thành phố Thanh Hoá, Thanh Hoá
+P Số 10 Ngô Cău Cơ, Phường Ngọc Trọo
+Y 63/3 Đường số 1, Phường Long Trường, Quận 9, TP Hồ Chí Minh
+P 3/3 đường số 1, Phường Long Trờng
+Y 514B Huỳnh Tấn Phát, Phường Bình Thuận, Quận 7, TP Hồ Chí Minh
+P 5/148 Hành Tấến Hhán, Phư ờn Bình Thuận
+Y 28 Nguyễn Thị Diệu P.6, Phường 06, Quận 3, TP Hồ Chí Minh
+P 28 Nguyễn Thị Diệu P.6, Phường 
+Y Thôn Dừa lẽ xã Hải lựu, Huyện Sông Lô, Vĩnh Phúc
+P Thòn òà là xã Hải Lội, Huyện Gông L
+Y 49 Đường 41, Phường Tân Quy, Quận 7, TP Hồ Chí Minh
+P 4, Đường 41, Phường Tân Quyg
+Y 14 Nguyễn Thái Học, P Tân An, Quận Ninh Kiều, Cần Thơ
+P Than A Nguy ễn Phư Tạng, Thô
+Y Số 13 Phạm Huy Thông, Thị Trấn Ân Thi, Huyện Ân Thi, Hưng Yên
+P Số 15/6 Phạm Hu T Tháng
+Y Số 222 ấp Thới Thạnh, Xã Thới Sơn, Thành phố Mỹ Tho, Tiền Giang
+P S 2 ấp Thái Tịnh, Xã Thái Lơu, Thà
+Y 22 Duy Tân, Phường 8, Quận Tân Bình, TP Hồ Chí Minh
+P 56 N Tần, T A Tông 
+Y Đồng vàng, KCN Đình Trám, Xã Hoàng Ninh, Huyện Việt Yên, Bắc Giang
+P Đồng Văng, 10A Đình Tim, Xã Hoàng
+Y Số 102 - Nguyễn ái Quốc, Phường Bắc Hồng, Thị xã Hồng Lĩnh, Hà Tĩnh
+P Số 102 Nguyễn A Quốu, Phường
+Y 125/11 Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, TP Hồ Chí Minh
+P 125/1 Nhuyễn Cưố Hân, Phường 10
+Y Số 18/8 đường Kim Đồng, Phường 6, Thành phố Đà Lạt, Lâm Đồng
+P Số 18/8 đường Kim Đông, Phườn 1
+Y Thôn Quỳnh Đô, Xã Vĩnh Quỳnh, Huyện Thanh Trì, Hà Nội
+P Tôn Quỳnh 85, Xã Mĩnh Quỳnh
+Y Số nhà 27, đường Chu Văn An, Phường Lê Lợi, Thành phố Vinh, Nghệ An
+P Số nhà 27, đường Chu Văn An, Phườn
+Y Xóm Đường, Xã Đại Yên, Huyện Chương Mỹ, Hà Nội
+P Xóm Đường, Xã Đại Yên,
+Y 76 Lê Lai, Phường Bến Thành, Quận 1, TP Hồ Chí Minh
+P 7 La Lê Lê, Thường Bến Thành
+Y Tổ 2 xã Ngọc Đường - TP Hà Giang - Hà Giang, TP Hà Giang, Hà Giang
+P Tổ 2, xã Ngọc Đường T Hà Grang Hà
+Y 146/37 Huỳnh Mẫn Đạt, Phường 03, Quận 5, TP Hồ Chí Minh
+P 146/37 Huỳễnh Hăn Đạo, Phường 06
+Y Số 240 Đường Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội
+P Số 24 Đường Tân Đức Thắng, Phường Hàng ộ
+Y Thôn Hữu Cước, Xã Liên Hồng, Huyện Đan Phượng, Hà Nội
+P Thôn Hoc Quác, Xã Liâm Hồng
+Y Số 384, tổ 1, Phường Trần Phú, Quận Hoàng Mai, Hà Nội
+P Số 61, tổ 1, Phường Tràn Hhú
+Y Nấm dẩn, Xã Nấm Dẩn, Huyện Xín Mần, Hà Giang
+P Nhóm Cầến, Xã Nin DBến, Hu
+Y ấp Cầu Dừa, Xã Mỹ Phước Tây, Thị Xã Cai Lậy, Tiền Giang
+P ấp Gâu Dào, Xã Mỹ Đuc Tuy, Thị xã Cò 
+Y ấp 5, Xã Đức Hòa Đông, Huyện Đức Hoà, Long An
+P ấp 5, Xã Đức Hoà Đông, Huyện Đức H
+Y Số 1 đường Quang Trung, Thành phố Lạng Sơn, Lạng Sơn
+P Đn s 1, đường Cháng hương
+Y Đội 7, Xã Mường Báng, Huyện Tủa Chùa, Điện Biên
+P Đội D, Xã Hoưàng Báng,
+Y Số 27 Nguyễn Trung Trực, Phường Bến Thành, Quận 1, TP Hồ Chí Minh
+P Số 57 Nguyễn Trung Trạo, Phường Bến Thành
+Y Số 57, phố Đường Thành, Phường Cửa Đông, Quận Hoàn Kiếm, Hà Nội
+P Số 57, phố Đường Thành, Phường 
+Y Số 7 phố Chờ Thị trấn Chờ, Huyện Yên Phong, Bắc Ninh
+P Số 7 phố Chi Thị trấn Chê, Huy
+Y Bàn Thạch, Hòa Xuân Đông, Huyện Đông Hoà, Phú Yên
+P Bần Trịnh, Xhã Xuân Đông, Huyện Đô
+Y Thôn Dương Lâm, Xã Trà Dương, Huyện Bắc Trà My, Quảng Nam
+P Thôn Dương Lâm, Xã Tiài Dường
+Y Thôn Đào Duy Từ, Xã Nguyên Bình, Huyện Tĩnh Gia, Thanh Hoá
+P Thôn Đòà Duy Từ, Xã Nguyên Bình
+Y Tầng 16 Toà Nhà Saigon Tower 29 Lê Duẩn, Quận 1, TP Hồ Chí Minh
+P Tầng 16 Tần Nhà Quyn Truam 29 Lê Qu
+Y TK 13, Phường Bắc Nghĩa, Thành Phố Đồng Hới, Quảng Bình
+P Th13, Phường Bếu Nghĩn, Thành Phố
+Y Lê hoá, Huyện Tuyên Hoá, Quảng Bình
+P Lê Hoai, Huyện Tuện Ho
+Y 261-263 Phạm Văn Chí, Phường 03, Quận 6, TP Hồ Chí Minh
+P 26-26 Phạm Văn Chí, Phường 05
+Y Xã Long Định, Xã Long Định, Huyện Bình Đại, Bến Tre
+P Xã Long Định, Xã Long Định, 
+Y Khu 4, xã Vân Phú, Thành Phố Việt Trì, Phú Thọ
+P Khu 6, xã Viân Phú, 
+Y Số 2 đường Phùng Hưng, Quận Hà Đông, Hà Nội
+P Số 2 đường Phùng Hưng, Huy
+Y 409/12 Nguyễn Trãi P.07, Phường 07, Quận 5, TP Hồ Chí Minh
+P 49/12 Nguyễn Tiãu P.7, Phường 07
+Y Thị trấn Lấp Vò, Huyện Lấp Vò, Đồng Tháp
+P Thị trấn Lết Vỗ, Huyện Câ
+Y Thôn Tân An, Xã Đại Lãnh, Huyện Đại Lộc, Quảng Nam
+P Thôn Tân An, Xã Đại Lánh, H
+Y 18D Nguyễn Lâm, Phường 06, Quận 10, TP Hồ Chí Minh
+P 08 Ngyễn Lam, Phường 06, Quận 10
+Y Số 5D72 ngõ Nam Phát 1, Phường Đằng Giang, Quận Ngô Quyền, Hải Phòng
+P Số 202 gõ Nham Đà 1, Phường Đồng Gang
+Y SN 040 - Tổ 6, Phường Tân Giang, Thành phố Cao Bằng, Cao Bằng
+P 57/20- T 6, Phường Tân Qung, T
+Y âp2, Thị trấn Lộc Ninh, Huyện Lộc Ninh, Bình Phước
+P ấp 2, Thị trấn Lộc Minh, H
+Y Tiểu khu 5, thị trấn Chợ Rã, Huyện Ba Bể, Bắc Cạn
+P Tiầu khu 5, Thị trấn Chợ Bà,
+Y 397/5, Tây Lạc, An Chu, Xã Bắc Sơn, Huyện Trảng Bom, Đồng Nai
+P 397/5 T, Lạ3, An C4, Xã Bắc Sơn
+Y Tổ 4, Khu 8, Phường Cẩm Thành, Thành phố Cẩm Phả, Quảng Ninh
+P Tổ 4, Khu 8, Phường Cẩn Tiềnh
+Y Số 63/4 Kiến Thiết, Quận Hồng Bàng, Hải Phòng
+P Số 63/4 Kiến Thát, Quận Hồ
+Y Thôn Trại, Xã Dị Sử, Huyện Mỹ Hào, Hưng Yên
+P Thôn Trịnh, Xã Dị Sát, Huyện Mỹ
+Y 553/60B Nguyễn Kiệm, Phường 09, Quận Phú Nhuận, TP Hồ Chí Minh
+P 53/60B Nguyễn Kiệm, Phường 09
+Y Xóm 11, Xã Quỳnh Hưng, Huyện Quỳnh Lưu, Nghệ An
+P Xóm 1, xã Quỳnh Hưng, Huyệ
+Y ấp Trà Đư, Xã Thường Lạc, Huyện Hồng Ngự, Đồng Tháp
+P ấp Tân Đạ, Xã Thàng Lạc
+Y Thôn La Tiến, Xã Nguyên Hòa, Huyện Phù Cừ, Hưng Yên
+P Thôn Ca Tán, Xã Nguyên Phòa
+Y Số 010, ấp 1, Xã Hội Nghĩa, Thị xã Tân Uyên, Bình Dương
+P Số 0/1, ấp 1, Xã Thỹ Nghĩa
+Y 4, Bế Văn Đàn, Phường An Hòa, Quận Ninh Kiều, Cần Thơ
+P 1 Bố Văn Hân, Phường An Hòa
+Y 21 Hoàng Diệu, Phường 1, Thành phố Sóc Trăng, Sóc Trăng
+P 21 Hoàng Diệu, Phường 1
+Y 252/4M Phạm Văn Chiêu, Phường 9, Quận Gò Vấp, TP Hồ Chí Minh
+P 262/41 Phạmh Văn Cháu, Phường 9
+Y Km 28, Quốc lộ 27A, Xã Quảng Sơn, Huyện Ninh Sơn, Ninh Thuận
+P Km 28, Quốc lộ 27A, Xã Quưảng 
+Y âp Hoà Hưng, Huyện Tân Thạnh, Long An
+P ấp Hòa Hưng, Huyện Tân Th
+Y Số 9/11, khu phố Tân Hòa, Phường Đông Hòa, TX Dĩ An, Bình Dương
+P Số 91, Khu phố Tân Hòà, Phường Thưng 
+Y ấp Long Phước, Xã Mỹ Phước Tây, Thị Xã Cai Lậy, Tiền Giang
+P ấp Long Phước, Xã Mỹ Phước Tây
+Y Số 24/A, ấp An Viễng, Xã Bình An, Huyện Long Thành, Đồng Nai
+P Số 2/14, ấp An Hồng, Xã Bình An
+Y Số 43/20, ấp 2, Xã Thạnh Phú, Huyện Vĩnh Cửu, Đồng Nai
+P Số 4/20, ấp 2, Xã Thạnh Phú, 
+Y xã Hà Tây, Xã Hà Tây, Huyện Chư Păh, Gia Lai
+P Xã Hà Tây, Xã Hà Tuy, Huyện h
+Y Tổ 1, Phường Đồng Mai, Quận Hà Đông, Hà Nội
+P Số 1 phường Đồng Ha, Quận
+Y 226, đường 3/2, Phường Hưng Lợi, Quận Ninh Kiều, Cần Thơ
+P 2B, đường 3/2, Phường Hưng Li
+Y K34/17 đường Đàm Văn Lễ, Phường Hoà An, Quận Cẩm Lệ, Đà Nẵng
+P 131/17 đường Đàn Văn Lỗ, Phường 
+Y Xã Tân Hương, Xã Tân Hương, Huyện Đức Thọ, Hà Tĩnh
+P Xã Tân Hương, Xã Tân Hưng
+Y Số 47, tổ 2D, khu 1, Phường Gia Cẩm, Thành phố Việt Trì, Phú Thọ
+P Số 147, tổ 2A, khu 1, Phường Cm 
+Y Số 499/6/118 Quang Trung, Phường 10, Quận Gò Vấp, TP Hồ Chí Minh
+P Số 49/2/14 Quang Trung, Phường 
+Y ấp 1, Huyện Cần Đước, Long An
+P p 1, Huyện Cần Gi
+Y 153 Đặng Văn Ngữ, Phường 14, Quận Phú Nhuận, TP Hồ Chí Minh
+P 13 Hông Văn Ngãi, Phường 1
+Y Hoá Thượng, Huyện Đồng Hỷ, Thái Nguyên
+P 10 5 Th c T g TP1, K0
+Y Thôn Giang Bắc, Xã Phước Hiệp, Huyện Tuy Phước, Bình Định
+P Thôn Giang Bắc, Xã Phước Hiệp
+Y Cụm Công nghiệp Nam An Sơn, Xã Quế Thọ, Huyện Hiệp Đức, Quảng Nam
+P Cm Công nghiệp Nam An Sơn, Xã Quc
+Y ấp ông Trịnh, Xã Tân Phước, Huyện Tân Thành, Bà Rịa - Vũng Tàu
+P ấp ông Tạh, xã Tân Phước
+Y Số 43 Nguyễn Thượng Hiền, Phường Nguyễn Du, Quận Hai Bà Trưng, Hà Nội
+P Số 13 Nguyễn Thượng Hữà, Phường Nguyễn 
+Y Thiệu Viên, Huyện Thiệu Hoá, Thanh Hoá
+P Thiận Hòà, Huyện Thậ Hư
+Y Thôn Vạn Phúc, Xã Vạn Kim, Huyện Mỹ Đức, Hà Nội
+P Thôn Vậện Phú, Xã Lạ Lao
+Y số 7/95 đường Chùa Bộc, Quận Đống đa, Hà Nội
+P Số 4/9 đường Đhà Tội
+Y Xóm cây đa, Huyện Thuỷ Nguyên, Hải Phòng
+P Xóm Lôg Sc, Huyện Thuy Nu
+Y Số 4 Ngách 29/2 Đội Nhân, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội
+P Số 1 Ngách29/2 Điện Nhâên, Phường Vinh
+Y Số 414 Đà Nẵng, Phường Đông Hải 1, Quận Hải An, Hải Phòng
+P Số 4/19 Đà Hưùng, phường Đông Hải 1
+Y UBND xã Lưu Phương, Huyện Kim Sơn, Ninh Bình
+P 160 Xã Lao, Phương, Huyện Nim
+Y thôn Đá Mài 2, Xã Tân Xuân, Huyện Hàm Tân, Bình Thuận
+P Xhôn Bà Nhà 2, Xã Tân Xuân,
+Y Đường 868, Phường 3, Thị Xã Cai Lậy, Tiền Giang
+P Đường 08, Phường 2, ThịXã Tà i
+Y 135/36 Trần Hưng Đạo, Phường Cầu Ông Lãnh, Quận 1, TP Hồ Chí Minh
+P 153/96 Trần Hưng Đạ, hường Cầ Công
+Y 29/8 Đường 53, Phường Thảo Điền, Quận 2, TP Hồ Chí Minh
+P 29/8 Đường 53, Phường Thớo Điền
+Y LK11B-35, khu đô thị Mỗ Lao, Phường Mộ Lao, Quận Hà Đông, Hà Nội
+P K61D-5, Khu đô thị Nà Lao, Phườn
+Y ấp 2, xã Tân Thanh, Xã Tân Thanh, Huyện Cái Bè, Tiền Giang
+P ấóm 2, xã Tân Thán, Xã Tân Thnh
+Y 25 Chu Thiên, Phường Hiệp Tân, Quận Tân phú, TP Hồ Chí Minh
+P 25 Chu Thin, Phường Hiệp Tân
+Y UBND xã Bình Thành, Xã Bình Thành, Huyện Phụng Hiệp, Hậu Giang
+P 1DND xã Bình Thành, Xã Bình Thà
+Y Thôn Kênh Mai, Xã Văn Đức, Thị xã Chí Linh, Hải Dương
+P Thôn Minh Hai, Xã Văn Đức
+Y ấp Xóm Vó, Xã Phú Cần, Huyện Tiểu Cần, Trà Vinh
+P ấp, Xóm Vạ, Xã Phú Ciầu, Hu
+Y 305/66 Lê Văn Sỹ, Phường 1, Quận Tân Bình, TP Hồ Chí Minh
+P 25/6 6 Lốn 5, Phường1, Quận Tân B
+Y An Nhơn, Thị Xã An Nhơn, Bình Định
+P XAn Nhơn, Thị xã N
+Y 423/22 Nguyễn Kiệm, Phường 09, Quận Phú Nhuận, TP Hồ Chí Minh
+P 42/2 Nguyễn Kiện, Phường 09
+Y Xã Ngọc Lâu, Xã Ngọc Lâu, Huyện Lạc Sơn, Hòa Bình
+P Xã Ngọc Lân, Xã Ngọc Văn, Hu
+Y Khối 250, Phường Quang Tiến, Thị xã Thái Hoà, Nghệ An
+P Khốm 258, Phường Quang Tiến
+Y xã Hữu Vinh, Thị trấn Yên Minh, Huyện Yên Minh, Hà Giang
+P 2ã iáu Binh, Thị trấn Yên Minh
+Y Số 39 ngõ 23 phố Đỗ Quang, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội
+P 3 nõ 34 h p ham, hàờng Trung Hà, Quận 
+Y 183/196/14 Bến Vân Đồn, Quận 4, TP Hồ Chí Minh
+P 16/106/16 Bến Văn Điền, Quậ
+Y Số 48B/3, khu phố 2, Phường An Phú, TX Thuận An, Bình Dương
+P Số 478/9, khu phố 2, Phường An Phú
+Y B8 đường 672, khu phố 1, Phường Phước Long B, Quận 9, TP Hồ Chí Minh
+P 68 đường D2, Khu phố 1, Phường Ph
+Y Thôn kẻ Đọng, Huyện Đắk Mil, Đắk Nông
+P Thôn Ká Đạong, Huyện Đắc 
+Y Km 89 quốc lộ 5, Xã Nam Sơn, Huyện An Dương, Hải Phòng
+P Km 89, Quốc lộ 5, Xã Nam Sơn
+Y Thôn Lâm Tiên, xã Nguyên Khê, Xã Nguyên Khê, Huyện Đông Anh, Hà Nội
+P Thôn Lâm Tân, Xã Nguyên Khê, Xã Nguyê
+Y Thôn Lịch Sơn,, Xã Cẩm Lý, Huyện Lục Nam, Bắc Giang
+P Thôn Linh Sơn, Xã Quốn Lý,
+Y Số 86 Lê Hồng Phong, Phường 4, Thành Phố Vũng Tàu, Bà Rịa - Vũng Tàu
+P Số 86 Lê Vồng Phong, phường 16, Thành Phố Vũn
+Y Số 63-65, Cao Văn Lầu, Khóm 3, Phường 5, Thành Phố Bạc Liêu, Bạc Liêu
+P Số 025, Cao Văn Câu, hân 3, Phường 5
+Y THôN AN THọ, Xã An Khánh, Huyện Hoài Đức, Hà Nội
+P Thôn An Thọ, Xã An Khánh,
+Y 8/58 Nguyễn Đình Khơi, Phường 4, Quận Tân Bình, TP Hồ Chí Minh
+P 950 Nguyễn Đình hụ, Phường 4
+Y Tổ 26, Phường Cam Giá, Thành Phố Thái Nguyên, Thái Nguyên
+P Tổ 26, Phường Cam Gi
+Y Thôn Trung Nghĩa, Xã Hoà Ninh, Huyện Hoà Vang, Đà Nẵng
+P Thôn Trung Nghĩa, Xã Hòa Minh
+Y 45 An Phú, Phường An Phú, Quận 2, TP Hồ Chí Minh
+P 15 An phú, Phường An Phú, Quận 
+Y Xóm 12, Xã Kim Phú, Huyện Yên Sơn, Tuyên Quang
+P Xóm 12, Xã Kim Phú, Huyện Yê
+Y Bản Nà Lèng, Xã Quang Thành, Huyện Nguyên Bình, Cao Bằng
+P Bảm Mà Lập, Xã Quang Thều, Huyệ
+Y Số 149A, ấp Long Hưng, Xã Long Chánh, Thị xã Gò Công, Tiền Giang
+P Số 109A, ấp Long Hưng, Xã Long Chánh
+Y Xóm Phú Xuân, Xã Đô Thành, Huyện Yên Thành, Nghệ An
+P Xóm Phú Xuân, Xã Hò Thành
+Y 142 Đường Số 9, Phường Tân Phú, Quận 7, TP Hồ Chí Minh
+P 162 Đường số 9, Phường Tân Phú
+Y 73 Nguyễn Quang Bích, Phường 13, Quận Tân Bình, TP Hồ Chí Minh
+P 74 Nguyễn Quang Kát, Phường 12
+Y Số 79, Tổ 32, KP 3, Phường Trảng Dài, Thành phố Biên Hoà, Đồng Nai
+P Số 79, tổ 32, KP 3, Phường Trưng DBà
+Y Khu 2, Phường Trường Thịnh, Thị xã Phú Thọ, Phú Thọ
+P Khu 2, Phường Trường Thịnh
+Y Thôn Thượng, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội
+P Thôn Thượng, Xã Thanh Lệct, H
+Y 49 Tự Phước, Thành phố Đà Lạt, Lâm Đồng
+P 49 Trị Phước, Thành phố Đà 
+Y 369F/20 An Dương Vương, Phường 10, Quận 6, TP Hồ Chí Minh
+P 360/5/20 An Cương Vương, Phường 10
+Y Vĩnh Quang, Huyện Vĩnh Linh, Quảng Trị
+P Vĩnh Qhưang, Huyện Vinh Li
+Y Cụm công nghiệp Nhật Tân, Xã Nhật Tân, Huyện Kim Bảng, Hà Nam
+P S0 đưông nghiệp Nhiệt Tân, Xã Nhệt
+Y Số 205 đường Ngô Quyền, Phường Máy Chai, Quận Ngô Quyền, Hải Phòng
+P Số 205 Đường Ngô Quyền, Phường Mảá
+Y Số 27, ngõ 218 Lạc Long Quân, Phường Bưởi, Quận Tây Hồ, Hà Nội
+P Số 27, ngõ 216 Lạc Long Quân, Phườn
+Y Số 1, đường Thống Nhất, Thị trấn Kẻ Sặt, Huyện Bình Giang, Hải Dương
+P Số 1, đường Thống Nhất, Thị trấn Lộ 
+Y 2/25 Lê Chí Dân, ấp 3, Thành Phố Thủ Dầu Một, Bình Dương
+P 1 Hù Lê, Khú Lhân, KP9
+Y Thôn Tiền Thắng, Xã Bảo Khê, Thành Phố Hưng Yên, Hưng Yên
+P Thôn Tần Thắng, Xã Bắc Khê
+Y 483- Trường Chinh, Phường An Khê, Quận Thanh Khê, Đà Nẵng
+P 495- Trườn ng Cin 1, Phường A 
+Y 19 Lê Hồng Phong, Thành phố Đà Lạt, Lâm Đồng
+P 19, Lê Hồng Phong, Thành 
+Y Xã Thắng Mố, Xã Thắng Mố, Huyện Yên Minh, Hà Giang
+P Xã Thắng Mi, Xã Thưắng Mi
+Y 250 Lê Văn Khương, phường Thới An, Quận 12, TP Hồ Chí Minh
+P 250 Lê Văn Kương, Phường Thới An
+Y B127 Nguyễn Văn Quá, phường Đông Hưng Thuận, Quận 12, TP Hồ Chí Minh
+P 8127 Nguyễn Văn Qui, Phường Đông Hưn
+Y QL 1A, KV 7, Phường Bùi Thị Xuân, Thành phố Quy Nhơn, Bình Định
+P 61A, K 17, Phường Bài Thị Xuâ
+Y 35 Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình, TP Hồ Chí Minh
+P 35 Mô S Huỳnh Liâm, phường 10
+Y xã Tân Triều, Xã Tân Triều, Huyện Thanh Trì, Hà Nội
+P Xã Tân Tiều, Xã Tân Tiều
+Y 59 Phan Đăng Lưu, Phường Phú Hòa, Thành phố Huế, Thừa Thiên - Huế
+P 59 Phan Đồng Lưn, Phường Phú Hoa
+Y Quốc lộ 14, ấp 3, Xã Tân Thành, Thị xã Đồng Xoài, Bình Phước
+P Quốc lộ 14, ấp 3, Xã Tân Thành
+Y 63H Cư Xá Phú Lâm D, Phường 10, Quận 6, TP Hồ Chí Minh
+P 65/1 Cư Xá Phú Lâm A, Phường 1
+Y 07 Điện Biên Phủ, Phường Phường Đúc, Thành phố Huế, Thừa Thiên - Huế
+P 07 Đông Biên Phủ, Phường Phường Đà 
+Y Số 318 đường Bưởi, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội
+P Số 30 đường Quái, Phường Vĩnh Phú
+Y Huyện lỵ, Huyện Quỳnh Nhai, Sơn La
+P Huyn Lý, Huyện Qunh h
+Y 172/28 Đặng Văn Ngữ, Phường 14, Quận Phú Nhuận, TP Hồ Chí Minh
+P 172/25- ĐHôun LCan Nhệp, Phường 1
+Y P903-10, tòa nhà Viglacera, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội
+P P40-/10 dà hà 1 tha Ca, Phường Nhú 
+Y Buôn Hiao 2, Xã Ea Hiao, Huyện Ea H'leo, Đắc Lắc
+P Quâu Hoa2, Xã Ba Hoao, Huyện Ba 
+Y 121A Lê Lư, Phường Phú Thọ Hoà, Quận Tân phú, TP Hồ Chí Minh
+P 121 Cơ Xơ, Phường Phú Thị Thàn
+Y Tổ 19 P, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng
+P Tổ 17/1, Phường Ngỹ Am
+Y 296 Lưu Hữu Phước P.15, Phường 15, Quận 8, TP Hồ Chí Minh
+P 276 Lau Hữi Phước P15, Phường 15
+Y Số 121/3A khóm 3, Phường 9, Thành Phố Vĩnh Long, Vĩnh Long
+P Số 12/3A Khánh 3, Phường 8
+Y 199/46 Tân Hương, Phường Tân Quý, Quận Tân phú, TP Hồ Chí Minh
+P 19/45 Biân Phương, Phường B, Q
+Y Số 18, ngách 12/21, phố Đào Tấn, Phường Cống Vị, Quận Ba Đình, Hà Nội
+P Số 10, nghánh 16/161 Phà Đoàu Tân, Ph
+Y 407 Thủ Khoa Huân, Phường Phú Thủy, Thành phố Phan Thiết, Bình Thuận
+P 47 Thá Phoa Hoâm, Phường Phú Thủ
+Y 15/1 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh
+P 15/1 Lê Thánh Tôn, Phường Bến Nghé
+Y Thôn Chợ, Xã Bình Minh, Huyện Thanh Oai, Hà Nội
+P Thôn Dại, Xã Bìn Hinh, Huyện Thanh 
+Y 256/3 Phạm Văn Chí, Phường 04, Quận 6, TP Hồ Chí Minh
+P 256/5 Phạm Văn Chí, Phường 04
+Y 49/19 Khu Phố 4, Phường Phước Long B, Quận 9, TP Hồ Chí Minh
+P 49/19 Khu phố 4, phường Phước Long B
+Y 345/134 Trần Hưng Đạo (lầu 3), Phường Cầu Kho, Quận 1, TP Hồ Chí Minh
+P 1475/4 Trần Hưng Đạo Chầu 2, Phường Cầu Ko
+Y 28 Nguyễn Đổng Chi, Phường Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng
+P 28 Hràn Đưng Chi, Phường Hoà Cầng Bắc
+Y Xóm Đông Thành, Xã Vĩnh Thành, Huyện Yên Thành, Nghệ An
+P Xóm Đông Thành, Xã Vĩnh Thành
+Y Kp2 Phú Hài, Thành phố Phan Thiết, Bình Thuận
+P Kp2 Phúi Hòà, Thành ph
+Y Phường Quang Trung, Thành phố Hải Dương, Hải Dương
+P Phường Quang Trung
+Y 683/14/7 Hồng Bàng, Phường 06, Quận 6, TP Hồ Chí Minh
+P 637/14/7 Hồng Đông, Phường 0,
+Y 02 Lê Lai, Thị trấn Kông Chro, Huyện Kông Chro, Gia Lai
+P 82 Lê Lai, Thị Trấn Lông Chn
+Y 36/25 Khu vực II, Phường Ngã Bảy, Thị Xã Ngã Bảy, Hậu Giang
+P Số 165, 3 K An Mg6 T6, Phường yế
+Y Số 35/70B, KP 9, Phường Hố Nai, Thành Phố Biên Hoà, Đồng Nai
+P Số 25/40B, KP 9, Phường Hhố Mhi, 
+Y 45C Huỳnh Thúc Kháng, Phường Mũi Né, Thành Phố Phan Thiết, Bình Thuận
+P 456 uỳnh Thác Khương, Phường H
+Y Số 400/1A, khu phố Tân An, PhườngTân Đông Hiệp, Tx Dĩ An, Bình Dương
+P Số 40/A, khu phố Tân Đan, phường Tân
+Y Số 48 Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Hà Nội
+P Số 10 Lương Hạc, Phường Váng Hạ
+Y Xã Tân Thành, Huyện Tân Hiệp, Kiên Giang
+P Xã Tân Thành, Tuyện Tha
+Y Thôn Đa Đinh, Xã An Bình, Huyện Nam Sách, Hải Dương
+P Thôn Aan Đình, Xã An Bình
+Y xã Quảng Minh, Thị Xã Ba Đồn, Quảng Bình
+P Xã Quảng Minh, Thị Xã Bi 
+Y Xã Tuy Lai, Xã Tuy Lai, Huyện Mỹ Đức, Hà Nội
+P Thố Tâuy Lâm, Xã Tâuy Lao, Hu
+Y Km 32 Quốc lộ 10, Huyện An Lão, Hải Phòng
+P Km 32 Quốc Lộ 1, Huyện Yê
+Y Thị trấn Bắc yên, Huyện Bắc Yên, Sơn La
+P Thị trấn Bắc Vên, Huyện Đức 
+Y Số 15 Đông Khê, Phường Đông Khê, Quận Ngô Quyền, Hải Phòng
+P Sp Tâ Đồng Đôn g LSg, 
+Y 118A, Võ Văn Kiệt, Phường Long Hòa, Quận Bình Thuỷ, Cần Thơ
+P 101 Lê Văn Vộệ, Phường Long Hoà, Huyện Ban
+Y 179 Đường 41 P.16, Phường 16, Quận 8, TP Hồ Chí Minh
+P 17 Đường 1 6, Phường 1à, Qu
+Y 14B Trần Ngọc Diện, Phường Thảo Điền, Quận 2, TP Hồ Chí Minh
+P 18/5 Trần Ngọc Diệu, Phường Thới
+Y Số 01 Lý Bôn, Phường 4, Thành phố Cà Mau, Cà Mau
+P Số 01 Lý Bâm, Phường 1, Thành p
+Y Đội 3, thôn Minh Tân, Xã Minh Trí, Huyện Sóc Sơn, Hà Nội
+P ộ 3, thàn Ninh Tân, XãN, Huyện Than 
+Y Mèo vạc - Huyện Mèo Vạc - Hà Giang, Huyện Mèo Vạc, Hà Giang
+P 1à LVạng Huyện Hà Hạọc - Hà Giang
+Y Số 35/5, Khu Phố Tân Lập, Phường Đông Hòa, Tx Dĩ An, Bình Dương
+P Số 35/5 Khu phố Tân Cập, Phường
+Y A5B2 Đường 30/4, P.Xuân Khánh, Quận Ninh Kiều, Cần Thơ
+P 45 B2 Đường Đa Lp, P. uươn Khánh
+Y 372 Đường số 8, Phường 11, Quận Gò Vấp, TP Hồ Chí Minh
+P 5 T6 Đường S 8, Phường 1
+Y 50 Tôn Đức Thắng, Phường An Sơn, Thành phố Tam Kỳ, Quảng Nam
+P 58 Tôn Đức Thắng, Phường An Sơn
+Y 53/86/23 Trần Khánh Dư P.TĐ, Phường Tân Định, Quận 1, TP Hồ Chí Minh
+P 39-3613 Trần Khánh Phi, P0, Phường Tân 
+Y 16 Đường 588 Khu Phố 1, Phường Phước Long A, Quận 9, TP Hồ Chí Minh
+P 10 đường 58 khu phố 1, đhường 
+Y 61/14A Đường số 19, Phường 8, Quận Gò Vấp, TP Hồ Chí Minh
+P 61 Hươn Đhưn, Số 19, hường 4, Q
+Y Số 40, ngõ 168, phố Ngọc Hà, Phường Ngọc Hà, Quận Ba Đình, Hà Nội
+P Số 40, ngõ 16, phố Ngọc Hài, Phường Ngọc 
+Y Số 15 Trần Cao Vân, Phường 06, Quận 3, TP Hồ Chí Minh
+P Số 15 Trần Cao Vân, Phường 06
+Y 151A Phạm Hùng, Phường Hoà Xuân, Quận Cẩm Lệ, Đà Nẵng
+P 151A Phạm Hùng, Phường Hà Xâm,
+Y Số 32, ngõ 420 Khương Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội
+P Số 32, ngố 420 Khưảng Đình, Phường
+Y 10 Đường số 2, Cư xá Bình Thới, Phường 8, Quận 11, TP Hồ Chí Minh
+P 20 Đường số 2, Cư xá Bình Thái, P
+Y Đội 3/2, xã Diên Sơn, Huyện Diên Khánh, Khánh Hòa
+P Độn 9/2, Xã Diền Sơn, H
+Y 1/21 Nguyễn Văn Dung, Phường 6, Quận Gò Vấp, TP Hồ Chí Minh
+P 1/21 Nguyễn Văn Dung, Phường 6
+Y 190 Lạc Long Quân, Phường 3, Quận 11, TP Hồ Chí Minh
+P 190 Lạc Long Quân, Phường 3, Qu
+Y 113/3, tổ 40, KP 8, Phường Tân Phong, Thành Phố Biên Hoà, Đồng Nai
+P 13/3, tổ 40, KP 8, Phường Tân Phong
+Y Long Trung, Xã Long Thành Trung, Huyện Hoà Thành, Tây Ninh
+P KLong Trung, Xãc Long Thành Trung
+Y Nhà 61, tổ 55, K3, Phường Khương Trung, Quận Thanh Xuân, Hà Nội
+P Nhà 61, tổ 3, 1K3, Phường Khương 
+Y Số 12, ngõ 11, phố Thái Hà, Phường Trung Liệt, Quận Đống đa, Hà Nội
+P Số 10, ngõ 14, phố Trến Là, Thường Trung Lệ
+Y Cụm 7, xã Tân Lập,, Xã Tân Lập, Huyện Đan Phượng, Hà Nội
+P Cạm 7, Xã Tân Lập, Xã Tân Lập,
+Y 68 Bà Huyện Thanh Quan, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng
+P 68 Bà Huyện Thanh Qua, Phường M
+Y 439 An Dương Vương, Phường 03, Quận 5, TP Hồ Chí Minh
+P 437 An Dương Vưàng, Phường 07, 
+Y 1233 Phạm Thế Hiển, Phường 5, Quận 8, TP Hồ Chí Minh
+P 123 Phạmn Thế Hiấn, Phường 5
+Y 91 Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, TP Hồ Chí Minh
+P 81 Nguyễn Văn Thái, Phường Na Kao
+Y Số 204/15 đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng
+P Số 204/15 đường Hữi Phùng, Phường Tân Chán
+Y Số 4, ngõ 1 phố Nghĩa Dũng, Phường Phúc Xá, Quận Ba Đình, Hà Nội
+P Số 4 ngõ 1 Nghĩa Dung, phường Phú
+Y ấp 4, Thị trấn Gành Hào, Huyện Đông Hải, Bạc Liêu
+P ấp 4, Thị Trấn CBình Hòà, Hu
+Y Số 571 đường Hồng Hà, Phường Phúc Tân, Quận Hoàn Kiếm, Hà Nội
+P Số 57A đường Hàng Hà, Phường Phú
+Y Tổ 2, khu vực 8, Phường Nhơn Phú, Thành Phố Quy Nhơn, Bình Định
+P Tổ 2, khu vự 3, Phường Nhan Chú
+Y Số 262a, phố Thanh Hưng, Thị trấn Đồi Ngô, Huyện Lục Nam, Bắc Giang
+P Số 2620, phố Thanh Hưng, Thị trấn 
+Y Số 25, ấp Chợ, Xã Suối Nho, Huyện Định Quán, Đồng Nai
+P Số 25, ấp Chác, Xã Truến Nhu
+Y Số 728 Bạch Đằng, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội
+P Số 40 Bai Đồng, Đường Bạc Lồng, Quận Hàn à
+Y 207/24, Huyện Mỏ Cày Nam, Bến Tre
+P 2D7/26, Huyện Koung Qh
+Y Thôn Tân Ninh, Xã Tân Thủy, Huyện Lệ Thuỷ, Quảng Bình
+P Thôn Tân Minh, Xã Tân Thủy, 
+Y Số 1708, Tổ 17, Phường Nam Sơn, Thị Xã Tam Điệp, Ninh Bình
+P Số 1708, tổ 17, Phường Nam Sơn
+Y Đường 179, Xã Cửu Cao, Huyện Văn Giang, Hưng Yên
+P Đường 39, Xã Cau Sạo
+Y 54, Thành phố Tam Kỳ, Quảng Nam
+P 57, Thành phố Tam 
+Y 25, Tân Trào, Phường Tân An, Quận Ninh Kiều, Cần Thơ
+P 25, Tân Tiầu, Phường Tân An
+Y Đường Lê Quý Đôn, Phường An Lộc, Thị xã Bình Long, Bình Phước
+P Đường Lê Quý Đôn, Phường An Lộc
+Y Khu phố 4, Thị trấn Vĩnh Bình, Huyện Gò Công Tây, Tiền Giang
+P Khu phố 4, Thị trấn Vĩnh Bình
+Y 198/229A Đoàn Văn Bơ, phường 10, Quận 4, TP Hồ Chí Minh
+P 19/29A Đoàn Văn Dơ, Phường 10, Quận 
+Y 53 Hà Thanh, Phường Vạn Thắng, Thành phố Nha Trang, Khánh Hòa
+P 53 Hà Thanh, Phường Vạnth Thắng
+Y Thôn Tùng Quang, Xã Hương Quang, Huyện Vũ Quang, Hà Tĩnh
+P Thôn Tông Quang, Xã Hương Quang
+Y Đường Trần Hưng Đạo, Tỉnh Ninh Bình, Ninh Bình
+P Đường Tràn Hương Pạc, Thị n
+Y ấp 5, Xã Đốc Binh Kiều, Huyện Tháp Mười, Đồng Tháp
+P ấp 5, Xã Bắc Minh Biềm, H
+Y 16/2 Trần Bình Trọng, Phường 01, Quận 5, TP Hồ Chí Minh
+P 1/5, 2 Trần Bình Đạ, phốn 
+Y Khóm Long An B, Phường Long Phú, Thị xã Tân Châu, An Giang
+P Khóu Long AnA, hàn Long Lc, Th xã T
+Y 51 Sinh Trung, Phường Vạn Thạnh, Thành phố Nha Trang, Khánh Hòa
+P 3 Bn Trung, Phường Vạn Thạnh, Thàn
+Y 92/45 Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, TP Hồ Chí Minh
+P 92/4/5 Xã Viết Nghội Tình
+Y 198/41 Đường số 3, Phường 9, Quận Gò Vấp, TP Hồ Chí Minh
+P 190/21 đường số 3, Phường 9
+Y Số 82 Phố An Trạch, Phường Quốc Tử Giám, Quận Đống đa, Hà Nội
+P Số 82 Phố An Trạnh, Phường Quốc Tá
+Y Số 77A Đường 38, Phường Tân Quy, Quận 7, TP Hồ Chí Minh
+P Số 71 đường 38, phường Tân Qu
+Y Thôn Đông Cứu, Xã Dũng Tiến, Huyện Thường Tín, Hà Nội
+P Thôn Đồng Bế, Xã Dhạnh Tiến
+Y Đường Hùng Vương, Phường Xuân Bình, Thị xã Long khánh, Đồng Nai
+P T Tông Hoàng n Lương, Phường Xuân Bìn
+Y Số 101 Tô Vĩnh Diện, Phường Khương Trung, Quận Thanh Xuân, Hà Nội
+P 318 T Vĩnh Dộệi, Phường Khuang Trung
+Y Số 38A/20 khu phố Bình Đường 1, Phường An Bình, Tx Dĩ An, Bình Dương
+P Số 34/L20 Khu Bhc Bình, Qung
+Y Đội 8, thôn Văn Lăng, Xã Trực Tuấn, Huyện Trực Ninh, Nam Định
+P Đ9, thôn Văn Lng, Xã Trạc Ti
+Y Vân an, Huyện Chi Lăng, Lạng Sơn
+P Kôm m, Huyện Ch L
+Y Thôn Tú Sơn 1, Xã Đức Lân, Huyện Mộ Đức, Quảng Ngãi
+P Thôn Thú Sơn 1, Xã Đức Lâm
+Y 49/23 ông ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng
+P 49/3 đường 56 Dhiơn, Phường Than
+Y 839 Ngô Quyền, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng
+P 859 Ngô Quyền, Phường An Hải Đông
+Y Số nhà 6, hẻm 124/22/53 âu Cơ, Phường Tứ Liên, Quận Tây Hồ, Hà Nội
+P 30 Trân Đà T, Quận Gâ
+Y Số 252 Khu phố 4, Thị trấn Thứ Ba, Huyện An Biên, Kiên Giang
+P Số 252 khu phố 1, Thị trấn Thúc Da
+Y Số 78 Phạm Ngọc Thạch, Phường Lộc Phát, Thành phố Bảo Lộc, Lâm Đồng
+P Số 49 Phạm Ngọc Tranh, Phường Lạc Phớt
+Y 21 Trần Quý Khoác, Quận 1, TP Hồ Chí Minh
+P 21 Tràn Bông Qhuâu, Quận 1
+Y Số 27, ngõ 142, tổ 10, Phường Việt Hưng, Quận Long Biên, Hà Nội
+P Số 27, ngõ 12, tổ 10, Phường 
+Y 186/14 Bình Thới, Phường 14, Quận 11, TP Hồ Chí Minh
+P 16/4 Bình Triến, Phường 14
+Y Số 62, phố Dịch Vọng, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội
+P Số 62, phố Dih Lạng, Phường Dịn
+Y Số 55/3, Hùng Vương, Phường 9, Thành Phố Đà Lạt, Lâm Đồng
+P Số 05, đường Nưun, Phường 9, T
+Y KV Thới Thạnh, Phường Thới An, Quận Ô Môn, Cần Thơ
+P 16 Thái Thạn, Phường Thới An, 
+Y 11 Ngô Văn Trị, Phường Phú Lợi, Thành Phố Thủ Dầu Một, Bình Dương
+P 1 Ngõ Văn Trị, phường Phú Lợi
+Y 187/7 Điện Biên Phủ, Phường Đa Kao, Quận 1, TP Hồ Chí Minh
+P 157/7 Điện Biên Phủ, Phường Sn Ko
+Y Số nhà 63 tổ 19, phố Mai Dịch, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội
+P Số nhà B3, sổ 14, phã Hai Dại, Phường Hoà Dạ
+Y Thôn My Thượng, xã Thanh Mai,, Xã Thanh Mai, Huyện Thanh Oai, Hà Nội
+P Thôn ng Thượng, Xã Thanh Ha, Xã Thanh
+Y B19, đường 57, Khu dân cư 586, Phường Phú Thứ, Quận Cái Răng, Cần Thơ
+P 619, đường D7, Khu Cân Cu Lộ6, Ph
+Y 26D/25, Khu phố 5, Thị trấn Dầu Tiếng, Huyện Dầu Tiếng, Bình Dương
+P 26D/25, Khu pố 5, Thị trấn Bà Tến
+Y Số 16D, khu phố Bình Hòa, Phường Lái Thiêu, TX Thuận An, Bình Dương
+P Số 168, khu phố Bình Hòa, Phường Lái T
+Y KCN Lương Sơn, Km 36, Xã Hòa Sơn, Huyện Lương Sơn, Hòa Bình
+P L6CN Lương Sơn, Km T, Xã Hòn Sơn
+Y Số nhà 120, Khu 5, Phường Nam Hòa, Thị xã Quảng Yên, Quảng Ninh
+P Số 1à 120, Khu 5, Phường Nam Hoà
+Y Tổ 7, Phường Minh Khai, Thành Phố Phủ Lý, Hà Nam
+P Tổ 3, Phường Minh Khai,
+Y 596 Nguyễn Đình Chiểu, Phường 03, Quận 3, TP Hồ Chí Minh
+P 596 Nguyễn Đình Cháớc, Phường 03
+Y Xóm Thị Tứ, Xã Tân Thành, Huyện Yên Thành, Nghệ An
+P Xóm Tự T6, Xã Tân Thành, Hu
+Y ấp Sở Tại, Xã Thạnh Phú, Huyện Cái Nước, Cà Mau
+P ấp Số Tị, Xã Thạnh Phú, Huyện
+Y 307 Hùng Vương, Phường Trần Phú, Thành phố Quảng Ngãi, Quảng Ngãi
+P 37 đường Vương, Phường Tân Phú
+Y Bản Hua Mường, Xã Sốp Cộp, Huyện Sốp Cộp, Sơn La
+P Tổ3 4 Hau Phường, Xã Sởn Cip
+Y Số 69 đường Huyền Quang, Phường Ninh Xá, Thành phố Bắc Ninh, Bắc Ninh
+P Số 69 đường Huyên Quang, Phường Nin
+Y 01 Lê Tấn Toán, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng
+P 61 Lê Tấn Tiản, Phường An Hải Bắc
+Y xóm 6, Xã Hưng Lộc, Thành phố Vinh, Nghệ An
+P Xóm 65, Xã Hưng Lộệc, Thà
+Y Tổ 15, Khu 5, Phường Quang Trung, Thành phố Uông Bí, Quảng Ninh
+P Tổ 15, Khu 5, Phường Quang Trung
+Y Số 177/24, Đường 3/2, P.11, Phường 11, Quận 10, TP Hồ Chí Minh
+P Số 17/24 Đường 3/2, K1, Phường 1
+Y Thôn Cầu Đen, Xã Thanh Xuân, Huyện Sóc Sơn, Hà Nội
+P Tôn Cầ Đan, Xã Tranh Xhân, Huyện 
+Y 15B/71 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh
+P T5 /5, p Lê Chánh Tây, Phườnh Niến Ng
+Y Thôn Nà Cát, Xã Đức Thông, Huyện Thạch An, Cao Bằng
+P T7A Hò Cầt, Xã Đức Thiận
+Y Số 33 Trần Cao Vân, Phường Ngọc Trạo, Thành phố Thanh Hoá, Thanh Hoá
+P Cng s5 357 T An Ca Lân, Phườ
+Y Số 34 Nguyễn Văn Cừ, Phường An Lạc, Thị xã Buôn Hồ, Đắc Lắc
+P Số 31 Nguyễn Văn Chi, Phường An Lạc
+Y 777 Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng
+P 7 Ngô Quyền, Phường An Hải Bắc
+Y Số 38 Hào Nam, Phường ô Chợ Dừa, Quận Đống đa, Hà Nội
+P Số 47 Hòà Nam, Phường 5 Chợ Tâ, Quận Đ
+Y 67 Phan Đăng Lưu, Phường Hoà Cường Nam, Quận Hải Châu, Đà Nẵng
+P 67 Phan Đăng Lưu, Phường Hàn Cường Nam
+Y 285/2 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, TP Hồ Chí Minh
+P 38/2 Nguyễn Văn Trếi, Phường 10
+Y 23 Điện Biên Phủ, Phường Đa Kao, Quận 1, TP Hồ Chí Minh
+P 3 Điện Biên Phi, Phường Đa Kao, Qu
+Y Số nhà 30C, tổ dân phố số 1, Phường Văn Quán, Quận Hà Đông, Hà Nội
+P Số nhà 302, tổ dân phố ố 1, Phường 
+Y 439/59/15 Hồ Học Lãm, Phường An Lạc, Quận Bình Tân, TP Hồ Chí Minh
+P 39/3 Hõ Hạ Lâm, Phường An Lạc
+Y 37/8 Trịnh Đình Trọng, Phường 5, Quận 11, TP Hồ Chí Minh
+P S7/8 Trành Đình Trượng, Phường 5
+Y Số 99 phố Yên Phúc, Phường Phúc La, Quận Hà Đông, Hà Nội
+P Số 9 Phố Yên Phú, Phường Phúc La
+Y Số 125 Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội
+P Số 126 Tôn Đức Thắn, Phường Hoàng 
+Y 45C Đường Hồ Bá Phấn, Phường Phước Long A, Quận 9, TP Hồ Chí Minh
+P 456 đường Hồ Bắi Phám, Phường Phư
+Y Sơn Liên, Xã Nghĩa Sơn, Huyện Nghĩa Đàn, Nghệ An
+P Sóm Lân, Xã Nghĩ Sơn, Hu
+Y 122 phố Phương Liệt, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội
+P 16 56 phố Phướcng, Lã, Phường Phước 
+Y Số 5 ngõ 152 phố Hào Nam, Phường ô Chợ Dừa, Quận Đống đa, Hà Nội
+P Số 5 ngõ 152 phố Hòa Nam, Phường 
+Y 276/131/17 Thống Nhất, Phường 16, Quận Gò Vấp, TP Hồ Chí Minh
+P 26/3/17 Trầng Nhất, Phường 16, 
+Y Số 165/2, KP 7, Phường Tân Hòa, Thành Phố Biên Hoà, Đồng Nai
+P Số 165/2, K7, Phường Tân Hhai
+Y Thôn Xuân Lai, Xã Gia Tiến, Huyện Gia Viễn, Ninh Bình
+P ò Tân Xơn Lán, Xã Tiân Tềng
+Y Nhà CH 3 tổ 9 phường Mai Dịch, Quận Cầu Giấy, Hà Nội
+P Nhà C 3, tổ 9, Phường Hai Dịnh
+Y Tổ 3, ấp 4, Tỉnh Lộ 8, Xã Hoà Phú, Huyện Củ Chi, TP Hồ Chí Minh
+P Tổ 3, ấp 4, Tịnh Lộ B, Xã Hòà Phú
+Y Số 43/33 Lý Thường Kiệt, Phường 4, Thành phố Mỹ Tho, Tiền Giang
+P Số 43/3 Lý Thường Kiệt, Phường 4
+Y Số 249 Lê Hồng Phong, Phường 8, Thành Phố Vũng Tàu, Bà Rịa - Vũng Tàu
+P Số 2/9 Lê Hồng Phong, Phường 8, Th
+Y ấp Cầu Xây Thị trấn Thủ Thừa, Huyện Thủ Thừa, Long An
+P ấp Cầu Hây, Thị trấn Thúi Thiêu
+Y Thôn 3, Xã Thạch Long, Huyện Thạch Thành, Thanh Hoá
+P Th5A 3, Xã Thạc A Long
+Y ấp Bình Tiền 1, Xã Đức Hòa Hạ, Huyện Đức Hoà, Long An
+P ấp Bình Tân 1, Xã Đức Hòa Hạ, Huy
+Y Thôn Phú Sơn, Xã Hàm Mỹ, Huyện Hàm Thuận Nam, Bình Thuận
+P Thôn Phú Sao, Xã Hâm Mỹ
+Y Tổ 15, ấp 4, Xã Suối Ngô, Huyện Tân Châu, Tây Ninh
+P Số 15, ấp 4, Xã Sáu Ngã, Huy
+Y Thị Trấn Cao Lộc, Huyện Cao Lộc, Lạng Sơn
+P Thị Trần Cao Lộc, Huyện Ba Lộ
+Y Số 10, đường Lý Văn Lâm, Phường 1, Thành Phố Cà Mau, Cà Mau
+P Số 10 đường ý Văn Lâm, Phường 1
+Y Số 8 Ngách 374/7 âu Cơ, Phường Nhật Tân, Quận Tây Hồ, Hà Nội
+P Số 8 Nginh 371/7 âu Cơ, Phường Nhệ
+Y Lô 24, Khu CN Trà Nóc, Phường Trà Nóc, Quận Bình Thuỷ, Cần Thơ
+P Lô 24, Khu CA Tà Hoà, Phường Tân Phú
+Y Số 330 đường Ngọc Lâm, Phường Ngọc Lâm, Quận Long Biên, Hà Nội
+P Số 38 đường Ngệc Câm, Phường Ngọ
+Y Đường Trần Nhật Duật -, Phường Kim Tân, Thành phố Lào Cai, Lào Cai
+P Đường Trần Nhiệt Quệt, Phường Vâm T
+Y Số 339, phố Huế, Phường Phố Huế, Quận Hai Bà Trưng, Hà Nội
+P Sm số 3/7, Phố 1 Mng Phượng
+Y 373C/4, KV6, Phường An Khánh, Quận Ninh Kiều, Cần Thơ
+P 372/4, K65, Phường An Khánh
+Y Khu tập thể Xí nghiệp 4, Xã Duyên Thái, Huyện Thường Tín, Hà Nội
+P Khu Tập thi t Nghiệp 1, Xã Quyn 
+Y 501 - 503 Trần Hưng Đạo, Phường 14, Quận 5, TP Hồ Chí Minh
+P 56/1-563 Trần Hưng Đại, Phường 16
+Y 84 Nguyễn Văn Linh, Quận Hải Châu, Đà Nẵng
+P 64 Nguyễn Văn Linh, Quận 
+Y 54A Phan Đình Phùng, Phường Tây Sơn, Thành phố Pleiku, Gia Lai
+P 54A Phan Đình Phùng, Phường Tây S
+Y 8 Đường 12D, Phường Long Thạnh Mỹ, Quận 9, TP Hồ Chí Minh
+P 3 Đường 120, phường Long Thạnh Mỹ,
+Y Số 38, tổ 4, phố Tân Phú, Phường Tân Dân, Thành Phố Việt Trì, Phú Thọ
+P Số 59, tổ 4, phố Tân Phú, Phường Tâ
+Y Số 127H Thụy Khuê, Phường Thuỵ Khuê, Quận Tây Hồ, Hà Nội
+P Số 1274 Trụ, Khui, Pưng
+Y Số 5, phố Thanh Đàm, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội
+P Số 5, phố Thanh Điên, Phường Thanh T
+Y 231 thôn Vĩnh Tiến, Xã Vĩnh Tân, Huyện Tuy Phong, Bình Thuận
+P 231 thôn Vĩnh Tiấn, Xã Vĩnh Tân
+Y 20 LK28 khu đô thị Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội
+P 20 L628 Kh4 đô 4 Vên Phủ, Ph
+Y Xóm Lò Vôi, Thôn Văn Lâm, Xã Ninh Hải, Huyện Hoa Lư, Ninh Bình
+P Xóm L Vò, Thôn Vân Lâm, Xxã Ninh Hò
+Y 29/12B Đường Số 5, Phường Tăng Nhơn Phú B, Quận 9, TP Hồ Chí Minh
+P 29/126 Đường Số 5, Phường Tâng Nhan 
+Y Tiểu khu 2, Thị trấn Chợ Rã, Huyện Ba Bể, Bắc Kạn
+P Tầng, K121 2, Thị Trấn Ch 
+Y Thôn Ngọc Loan, Xã Tân Quang, Huyện Văn Lâm, Hưng Yên
+P Thôn Ngọc Loam, Xã Tân Quang
+Y Khu Thống Nhất 2, Phường Tân An, Thị xã Quảng Yên, Quảng Ninh
+P Khu Thống Nhất 2, Phường Tân An
+Y J1A Bửu Long P.15, Phường 15, Quận 10, TP Hồ Chí Minh
+P 31A Bùu Long D13, Phường 15
+Y Số 812 Trần Nhân Tông, Phường Nam Sơn, Quận Kiến An, Hải Phòng
+P Số 6/2 Trần Nhân Tâuy, Phường Nam
+Y Số 145 Phố Vũ, Phường Đại Phúc, Thành Phố Bắc Ninh, Bắc Ninh
+P Số 148 Phố Vi, Phường Đạn Phú
+Y 49B Nguyễn Đỗ Cung, Phường Tây Thạnh, Quận Tân phú, TP Hồ Chí Minh
+P 490 Nguyễn Bô Lang, Phường Tây Thạnh
+Y Đường Lý Thường Kiệt, KP 4, Huyện Mộc Hoá, Long An
+P Đường Lý Thường Kiệt, KA4, 
+Y 79 Nguyễn Cư Trinh, Phường Thuận Hòa, Thành phố Huế, Thừa Thiên - Huế
+P 79 Nguyễn Cư Trinh, Phường Thuận Hoà
+Y 76/2 Đường 59, Phường 14, Quận Gò Vấp, TP Hồ Chí Minh
+P 78/1 Đường 9, Phường 14, 
+Y 121Bis Bà Huyện Thanh Quan, Phường 09, Quận 3, TP Hồ Chí Minh
+P 121 Bại Bà Huyện Thanh Quan, Phường 0
+Y Khu 5, Thị trấn Kỳ Sơn, Huyện Kỳ Sơn, Hòa Bình
+P  Nòm i
+Y 15B-19 Đường Ba Mươi Tháng Tư, Phường 1, Thành phố Mỹ Tho, Tiền Giang
+P 9 219 đường Ba Mưới Thưng Tơ,
+Y Xuân Thành, Huyện Xuân Lộc, Đồng Nai
+P Xuóâm Thành, Huyện Thân Lu
+Y Khu 6 Tráng Việt, Xã Tráng Việt, Huyện Mê Linh, Hà Nội
+P Khu C Tràng iệt, Xã Tràng iệ
+Y Số 6, ngõ 170 Thạch Bàn, Phường Thạch Bàn, Quận Long Biên, Hà Nội
+P Số 6, ngõ 19B Thanh Bân, Phường T
+Y Số 260, ấp Khánh Nhơn, Xã Tân Khánh Đông, Thành Phố Sa Đéc, Đồng Tháp
+P Số 268, ấp Khánh Nơn, Xã Tân Kh
+Y 364 ấp Cổ Cò, Xã Ngọc Tố, Huyện Mỹ Xuyên, Sóc Trăng
+P 74 ấp Cố Cà, Xã Ngọc Tí, 
+Y 02 - 04, KP 3, An bình, Phường An Bình, Thành phố Biên Hoà, Đồng Nai
+P C6 24, K P3, Xh 20A, Phườn
+Y Thôn 8, Xã Đắk Ha, Huyện Đắk Glong, Đắk Nông
+P Thôn 3, Xã Đình Ha
