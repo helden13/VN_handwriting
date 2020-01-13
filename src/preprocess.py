@@ -252,9 +252,11 @@ def preprosess_raw(img_path, input_size, save_type=False):
         img = illumination_compensation(img)
 
     img = remove_cursive_style(img)
+    off_set_w = (input_size[0] - new_size[0]) // 2
+    off_set_h = (input_size[1] - new_size[1]) // 2
     target = np.ones([ht, wt], dtype=np.uint8) * 255
-    target[0:new_size[1], 0:new_size[0]] = img
-    img = cv2.transpose(target)
+    target[off_set_h:off_set_h+new_size[1], off_set_w:off_set_w+new_size[0]] = img
+#     img = cv2.transpose(target)
 
     if isinstance(save_type, str):
         file_name = pathlib.Path(img_path).name
@@ -308,3 +310,23 @@ def normalization(imgs):
         imgs[i] = imgs[i] / s[0][0] if s[0][0] > 0 else imgs[i]
 
     return np.expand_dims(imgs, axis=-1)
+
+LEFT_PUNCTUATION_FILTER = """!%&),.:;<=>?@\\]^_`|}~"""
+RIGHT_PUNCTUATION_FILTER = """"(/<=>@[\\^_`{|~"""
+NORMALIZE_WHITESPACE_REGEX = re.compile(r'[^\S\n]+', re.UNICODE)
+
+
+def text_standardize(text):
+    """Organize/add spaces around punctuation marks"""
+
+    if text is None:
+        return ""
+
+    text = html.unescape(text).replace("\\n", "").replace("\\t", "")
+
+    text = text.lstrip(LEFT_PUNCTUATION_FILTER)
+    text = text.rstrip(RIGHT_PUNCTUATION_FILTER)
+    text = text.translate(str.maketrans({c: " {} ".format(c) for c in string.punctuation}))
+    text = NORMALIZE_WHITESPACE_REGEX.sub(" ", text.strip())
+
+    return text

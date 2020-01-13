@@ -18,10 +18,11 @@ import preprocess as prep
 import model as mb
 import evaluation
 
-charset_base = " #'()+,-./:0123456789ABCDEFGHIJKLMNOPQRSTUVWXYabcdeghiklmnopqrstwuvxyzÂÊÔàáâãèéêẹìíòóôõùúýăĐđĩũƠơưạảấầẩẫậắằẵặẻẽếềểễệỉịọỏốồổỗộớờởỡợụủỨứừửữựỳỵỷỹ"
+charset_base = "¶ #'()+,-./:0123456789ABCDEFGHIJKLMNOPQRSTUVWXYabcdeghiklmnopqrstwuvxyzÂÊÔàáâãèéêẹìíòóôõùúýăĐđĩũƠơưạảấầẩẫậắằẵặẻẽếềểễệỉịọỏốồổỗộớờởỡợụủỨứừửữựỳỵỷỹ"
 vocab_size = len(charset_base)
-MAX_LABEL_LENGTH = 70
-INPUT_SIZE = (1024, 64, 1)
+MAX_LABEL_LENGTH = 128
+INPUT_SIZE = (2048, 128, 1)
+PAD_TK = "¶"
 
 
 BATCH_SIZE = 32
@@ -41,7 +42,7 @@ def get_label(type_):
 def preprocess_image(path):
     image = tf.io.read_file(path)
     image = tf.image.decode_jpeg(image, channels=1)
-    image = tf.image.convert_image_dtype(image, tf.float32)
+    image = tf.image.convert_image_dtype(image, tf.float32)/255
     image = tf.image.per_image_standardization(image)
     return image
     
@@ -124,11 +125,12 @@ def build_dataset(type_, cache=False, augment=False, training=True):
     DATA_FOLDER = os.path.join('..', 'data', type_)
     ds = tf.data.Dataset.list_files(os.path.join(DATA_FOLDER, '*'))
     labels = get_label(type_)
+    
     all_image_paths = [str(item) for item in pathlib.Path(DATA_FOLDER).glob('*') if item.name in labels]
     labels = [labels[pathlib.Path(path).name] for path in all_image_paths]
+    labels = [prep.text_standardize(label) for label in labels]
     all_image_labels = [text_to_labels(label) for label in labels]
     all_image_labels = pad_sequences(all_image_labels, maxlen=MAX_LABEL_LENGTH, padding='post')
-
     n_samples = len(all_image_labels)
     steps_per_epoch = tf.math.ceil(n_samples/BATCH_SIZE)
 
@@ -142,7 +144,7 @@ def build_dataset(type_, cache=False, augment=False, training=True):
 
     return ds, steps_per_epoch, labels
 
-def decode_batch(out):
+def decode_batch(prediction):
     result = []
     for j in range(out.shape[0]):
         out_best = list(np.argmax(out[j, 2:], 1))
@@ -150,6 +152,9 @@ def decode_batch(out):
         outstr = labels_to_text(out_best)
         result.append(outstr)
     return result
+#     print(prediction.shape)
+#     return K.get_value(K.ctc_decode(prediction, input_length=np.ones(prediction.shape[0])*prediction.shape[1],
+#                          greedy=True)[0][0])
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -157,12 +162,14 @@ if __name__ == "__main__":
     parser.add_argument("--test", action="store_true", default=False)
     parser.add_argument("--path", type=str, required=False) # path to test data
     args = parser.parse_args()
+    checkpoint = './checkpoint_weights.hdf5'
 
     if args.train:
         train_ds, num_steps_train, _ = build_dataset('train', cache=True)
         test_ds, num_steps_val, _ = build_dataset('test', training=False)
         model = mb.build_model(input_size=INPUT_SIZE, d_model=vocab_size+1, learning_rate=0.001)
-
+#         model.load_weights(checkpoint)
+        model.summary()
         batch_stats_callback = mb.CollectBatchStats()
         callbacks = mb.callbacks
         start_time = datetime.datetime.now()
@@ -199,7 +206,6 @@ if __name__ == "__main__":
 
     # Testing
     elif args.test:
-        checkpoint = './checkpoint_weights.hdf5'
         assert os.path.isfile(checkpoint) and os.path.exists(args.path)
         type_ = pathlib.Path(args.path).name
         ds, num_steps, labels = build_dataset(type_, training=False)
@@ -220,7 +226,7 @@ if __name__ == "__main__":
 
             decode, log = K.ctc_decode(x_test,
                                     x_test_len,
-                                    greedy=False,
+                                    greedy=True,
                                     beam_width=10,
                                     top_paths=1)
 
@@ -232,9 +238,9 @@ if __name__ == "__main__":
             predicts = decode_batch(predictions)
 
         total_time = datetime.datetime.now() - start_time
-        print(predicts)
-        print(labels)
-
+        print(predicts[:10])
+        print(labels[:10])
+#         predicts = [x.replace(PAD_TK, "") for x in predicts]
         prediction_file = os.path.join('.', 'predictions_{}.txt'.format(type_))
 
         with open(prediction_file, "w") as f:

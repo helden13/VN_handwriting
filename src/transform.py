@@ -20,8 +20,7 @@ from functools import partial
 
 import preprocess as prep
 
-MAX_LABEL_LENGTH = 128
-INPUT_SIZE = (1024, 64, 1)
+INPUT_SIZE = (2048, 128, 1)
 SAMPLE_SIZE = 50
 PREDICTION_LINE_CODE = 'P'
 
